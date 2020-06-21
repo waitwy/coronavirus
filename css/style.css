@@ -8133,7 +8133,7 @@ a.text-dark:hover, a.text-dark:focus {
     border-color: #dee2e6; } }
 
 body {
-  font-family: "Poppins", "Noto Sans SC", Arial, sans-serif;
+  font-family: "Poppins", "Noto Sans SC",Arial, sans-serif;
   background: #fff;
   font-size: 16px;
   line-height: 1.8;
@@ -8912,12 +8912,12 @@ textarea.form-control {
     box-shadow: 0 0 0 0 rgba(253, 203, 110, 0); } }
 
 .heading-section .subheading {
-  font-size: 15px;
+  font-size: 18px;
   display: block;
   margin-bottom: 5px; }
 
 .heading-section h2 {
-  font-size: 14vw;
+  font-size: 10vw;
   font-weight: 900;
   line-height: 1.0;
   font-family: "Poppins", "Noto Sans SC", Arial, sans-serif;
