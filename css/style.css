@@ -8158,6 +8158,7 @@ a {
 h1, h2, h3, h4, h5,
 .h1, .h2, .h3, .h4, .h5 {
   line-height: 1.5;
+  font-size:20px
   color: rgba(0, 0, 0, 0.8);
   font-weight: 400;
   font-family: "Lora","Noto Sans SC", serif; }
@@ -8741,7 +8742,6 @@ textarea.form-control {
       padding-bottom: 5em; } }
 
 .ftco-animate {
-  font-size: 10px;
   opacity: 0;
   visibility: hidden; }
 
