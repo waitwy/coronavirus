@@ -6632,7 +6632,8 @@ button.bg-dark:focus {
 
 .mb-4,
 .my-4 {
-  margin-bottom: 1.5rem !important; }
+  margin-bottom: 1.5rem !important; 
+  font-size:1rem; }
 
 .ml-4,
 .mx-4 {
@@ -8570,7 +8571,7 @@ h1, h2, h3, h4, h5,
 
 .ftco-volunteer .text h2 {
   font-weight: 900;
-  font-size: 30px;
+  font-size: 50px;
   line-height: 1.1;
   color: #000000; }
 
